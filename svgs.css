@@ -1,0 +1,332 @@
+/* items */
+#_1 {
+  background-image: url(svg/add-outline.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_2 {
+  background-image: url(svg/add-solid.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_3 {
+  background-image: url(svg/adjust.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_4 {
+  background-image: url(svg/airplane.svg);
+  background-position: center center;
+  background-size: 80% 80%;
+  background-repeat: no-repeat;
+}
+#_5 {
+  background-image: url(svg/album.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_6 {
+  background-image: url(svg/align-center.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_7 {
+  background-image: url(svg/align-justified.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_8 {
+  background-image: url(svg/align-left.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_9 {
+  background-image: url(svg/align-right.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+
+/* fin items */
+/* del 9 al 18*/
+#_10 {
+  background-image: url(svg/anchor.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_11 {
+  background-image: url(svg/announcement.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_12 {
+  background-image: url(svg/apparel.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_13 {
+  background-image: url(svg/arrow-down.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_14 {
+  background-image: url(svg/arrow-left.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_15 {
+  background-image: url(svg/arrow-outline-down.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_16 {
+  background-image: url(svg/arrow-outline-left.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_17 {
+  background-image: url(svg/arrow-outline-right.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_18 {
+  background-image: url(svg/arrow-outline-up.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+/* del 18 al 27 */
+#_19 {
+  background-image: url(svg/arrow-right.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_20 {
+  background-image: url(svg/arrow-thick-down.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_21 {
+  background-image: url(svg/arrow-thick-left.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_22 {
+  background-image: url(svg/arrow-thick-right.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_23 {
+  background-image: url(svg/arrow-thick-up.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_24 {
+  background-image: url(svg/arrow-thin-down.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_25 {
+  background-image: url(svg/arrow-thin-left.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_26 {
+  background-image: url(svg/arrow-thin-right.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_27 {
+  background-image: url(svg/arrow-thin-up.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+/* del 28 al 36 */
+#_28 {
+  background-image: url(svg/arrow-up.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_29 {
+  background-image: url(svg/artist.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_30 {
+  background-image: url(svg/at-symbol.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_31 {
+  background-image: url(svg/attachment.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_32 {
+  background-image: url(svg/backspace.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_33 {
+  background-image: url(svg/backward-step.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_34 {
+  background-image: url(svg/backward.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_35 {
+  background-image: url(svg/badge.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_36 {
+  background-image: url(svg/battery-full.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+/* del 37 al 45 */
+#_37 {
+  background-image: url(svg/battery-half.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_38 {
+  background-image: url(svg/battery-low.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_39 {
+  background-image: url(svg/beverage.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_40 {
+  background-image: url(svg/block.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_41 {
+  background-image: url(svg/bluetooth.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_42 {
+  background-image: url(svg/bolt.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_43 {
+  background-image: url(svg/bookmark\ copy\ 2.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_44 {
+  background-image: url(svg/bookmark\ copy\ 3.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_45 {
+  background-image: url(svg/bookmark.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+/* del 46 al 54*/
+#_46 {
+  background-image: url(svg/bookmark-outline-add.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_47 {
+  background-image: url(svg/bookmark-outline.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_48 {
+  background-image: url(svg/book-reference.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_49 {
+  background-image: url(svg/border-all.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_50 {
+  background-image: url(svg/border-bottom.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_51 {
+  background-image: url(svg/border-horizontal.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_52 {
+  background-image: url(svg/border-inner.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_53 {
+  background-image: url(svg/border-left.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
+#_54 {
+  background-image: url(svg/border-none.svg);
+  background-position: center center;
+  background-size: 80% 90%;
+  background-repeat: no-repeat;
+}
